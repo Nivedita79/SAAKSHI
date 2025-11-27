@@ -1,6 +1,6 @@
-# SAAKSHII: Ontology-Grounded Dental Materials RAG System
+# SAAKSHI: Ontology-Grounded Dental Materials RAG System
 
-**SAAKSHII** is a women-led AI initiative that combines structured clinical knowledge with modern Large Language Models (LLMs) to improve the accuracy, transparency, and safety of information retrieval in dentistry.
+**SAAKSHI** is a women-led AI initiative that combines structured clinical knowledge with modern Large Language Models (LLMs) to improve the accuracy, transparency, and safety of information retrieval in dentistry.
 
 The system integrates:
 - A clinically curated **Dental Restorative Materials Ontology**
@@ -14,15 +14,15 @@ of LLM-based tools in dental practice.
 
 ---
 
-## 🌟 What “SAAKSHII” Represents
+## 🌟 What “SAAKSHI” Represents
 
-**SAAKSHII** is both:
+**SAAKSHI** is both:
 
 - A **Hindi word** meaning *witness*, *evidence*, or *one who bears reliable knowledge*  
 - An **acronym** chosen by the team to reflect its mission  
   *(Exact expansion added after final team confirmation — placeholder below)*
 
-> **SAAKSHII**: *[Safe AI and Knowledge-Supported Healthcare Information Interface]*  
+> **SAAKSHI**: *[Safe AI and Knowledge-Supported Healthcare Information Interface]*  
 *(Replace with final agreed acronym if different.)*
 
 The name captures the system’s purpose:  
@@ -40,7 +40,7 @@ Modern LLMs are powerful but prone to:
 
 Dentistry lacks the structured knowledge resources (similar to RxNorm or SNOMED CT in medicine) needed to ensure trustworthy AI responses about materials and products.
 
-**SAAKSHII addresses this gap** by combining symbolic knowledge (ontology + knowledge graph) with neural methods (LLM embeddings + RAG).
+**SAAKSHI addresses this gap** by combining symbolic knowledge (ontology + knowledge graph) with neural methods (LLM embeddings + RAG).
 
 ---
 
@@ -96,7 +96,7 @@ The code is not production-ready but demonstrates:
 - core functionality  
 - integration of symbolic + neural methods  
 
-The goal is to expand, refine, and deploy the system under the SAAKSHII initiative.
+The goal is to expand, refine, and deploy the system under the SAAKSHI initiative.
 
 ---
 
